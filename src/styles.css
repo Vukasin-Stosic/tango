@@ -1,0 +1,32 @@
+:root {
+  --cell-height: min(100px, calc((100vw - 1.5rem) / 6));
+  --font-size: calc(13px + (21 - 13) * ((100vw - 320px) / (1600 - 320)));
+}
+html {
+  font-size: var(--font-size);
+}
+.board {
+  width: calc(var(--cell-height) * 6);
+  font-size: calc(var(--font-size) + 5px);
+}
+.col-2 {
+  height: var(--cell-height);
+  color: skyblue;
+  user-select: none;
+  background-color: rgb(104, 104, 104);
+}
+.col-2:hover {
+  background-color: cadetblue;
+}
+
+@media (max-width: 319px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 1600px) {
+  html {
+    font-size: 21px;
+  }
+}
