@@ -3,6 +3,7 @@
 A fun and challenging puzzle game built in JavaScript.
 
 ## 📋 Table of Contents
+
 - [📝 Description](#description)
 - [✨ Features](#features)
 - [💻 Technologies Used](#technologies-used)
@@ -58,8 +59,8 @@ To set up the project locally:
 
 Include screenshots to showcase the project:
 
-![Game Board](public\assets\screenshots/screenshot1.png)
-![Winning Screen](public\assets\screenshots/screenshot2.png)
+![Game Board](/public\assets\screenshots/screenshot1.png)
+![Winning Screen](/public\assets\screenshots/screenshot2.png)
 
 ## 🌐 Live Demo
 
@@ -68,6 +69,7 @@ Check out the live version of the game here: [Tango Puzzle](https://tango-puzzle
 ## 🤝 Contributing
 
 To contribute:
+
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix:
    ```bash
