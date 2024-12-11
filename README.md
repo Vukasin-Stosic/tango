@@ -57,8 +57,8 @@ To set up the project locally:
 
 ## 📷 Screenshots
 
-![Game Board](public\assets\screenshots/screenshot1.png)
-![Winning Screen](public\assets\screenshots/screenshot2.png)
+![Game Board](public/assets/screenshots/screenshot1.png)
+![Winning Screen](public/assets/screenshots/screenshot2.png)
 
 ## 🌐 Live Demo
 
