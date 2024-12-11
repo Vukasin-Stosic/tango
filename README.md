@@ -59,8 +59,13 @@ To set up the project locally:
 
 Include screenshots to showcase the project:
 
+<<<<<<< HEAD
 ![Game Board](/public/assets/screenshots/Screenshot1.png)
 ![Winning Screen](/public/assets/screenshots/Screenshot2.png)
+=======
+![Game Board](public\assets\screenshots/screenshot1.png)
+![Winning Screen](public\assets\screenshots/screenshot2.png)
+>>>>>>> db8a5730dcd2e7815015165ab784a4eefb1a4070
 
 ## 🌐 Live Demo
 
