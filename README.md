@@ -11,7 +11,7 @@ A fun and challenging puzzle game built in JavaScript.
 - [📖 Usage](#usage)
 - [📷 Screenshots](#screenshots)
 - [🌐 Live Demo](#live-demo)
-- [🤝 Contributing](#contributing)
+- [🤝 Contributing](#contributing-)
 
 ## 📝 Description
 
